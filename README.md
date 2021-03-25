@@ -3,6 +3,7 @@
 
 ## Human Rights
 1. Weapon Rights
+#### Testing
 2. Age
 3. Guests 
 4. Classes
@@ -36,7 +37,9 @@
 
 
 ## Location
-
+1. Rooms 
+2. IDR Identification District of Rooms 
+3. Claim Land
 
 ## Money
 1. Currency
