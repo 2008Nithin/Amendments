@@ -3,7 +3,6 @@
 
 ## Human Rights
 1. Weapon Rights
-#### Testing
 2. Age
 3. Guests 
 4. Classes
